@@ -1,0 +1,5 @@
+[MASTER]
+ignore=**/migrations/**
+
+[MESSAGES CONTROL]
+good-names=app, logger, urlpatterns, pk
